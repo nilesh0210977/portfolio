@@ -264,7 +264,7 @@ const achievementSection = {
       title: "CodeChef",
       subtitle:
         "4 Star at CodeChef – codeChef Contest – Codechef(highest Rating 1806).",
-      image: require("./assets/images/codechef.jpg"),
+      image: require("./assets/images/codechef.png"),
       imageAlt: "CodeChef",
       footerLink: [
         {
